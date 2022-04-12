@@ -71,6 +71,6 @@ variable "width" {
 }
 
 variable "placeholder" {
-  default     = "<div class="tenor-gif-embed" data-postid="23014209" data-share-method="host" data-aspect-ratio="0.490625" data-width="100%"><a href="https://tenor.com/view/concerned-dog-worried-gif-23014209">Concerned Dog GIF</a>from <a href="https://tenor.com/search/concerned-gifs">Concerned GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>"
+  default     = "placebear.com"
   description = "Image-as-a-service URL. Some other fun ones to try are fillmurray.com, placecage.com, placebeard.it, loremflickr.com, baconmockup.com, placeimg.com, placebear.com, placeskull.com, stevensegallery.com, placedog.net"
 }
