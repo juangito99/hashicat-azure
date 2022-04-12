@@ -71,6 +71,6 @@ variable "width" {
 }
 
 variable "placeholder" {
-  default     = "https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fconcerned-dog-worried-gif-23014209&psig=AOvVaw0eod0SF4B8eyGViOoi6Jsm&ust=1649884707652000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCPj0pdG5j_cCFQAAAAAdAAAAABAD"
+  default     = "https://c.tenor.com/CM31M-kGqvIAAAAd/concerned-dog.gif"
   description = "Image-as-a-service URL. Some other fun ones to try are fillmurray.com, placecage.com, placebeard.it, loremflickr.com, baconmockup.com, placeimg.com, placebear.com, placeskull.com, stevensegallery.com, placedog.net"
 }
